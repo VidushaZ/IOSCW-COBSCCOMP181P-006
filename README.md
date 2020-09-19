@@ -1,2 +1,2 @@
-# IOSCW-COBSCCOMP181P-006
-ios-cw
+# COBSCComp181p006-W.A.V.S-Hemathunga
+IOS nibm coursework

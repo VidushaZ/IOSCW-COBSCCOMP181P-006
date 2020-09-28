@@ -18,6 +18,7 @@
 		3D33D0DA2514B79000A1D575 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3D33D0D92514B79000A1D575 /* GoogleService-Info.plist */; };
 		3D33D0DC2514B84300A1D575 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D33D0DB2514B84300A1D575 /* Assets.xcassets */; };
 		3D33D0DE2514B91300A1D575 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D33D0DD2514B91300A1D575 /* AppDelegate.swift */; };
+		3D5F6A6E25224C3000038E83 /* ShowMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5F6A6D25224C3000038E83 /* ShowMap.swift */; };
 		A1DE473B7FE563C28DC5974A /* Pods_COVID19_COVID19UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 609F9443F69CC36FFD84EDB5 /* Pods_COVID19_COVID19UITests.framework */; };
 		FCB0FA04ECDAF30DE5A3648C /* Pods_COVID19.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EB38291F9662ED0C5B79475 /* Pods_COVID19.framework */; };
 /* End PBXBuildFile section */
@@ -57,6 +58,7 @@
 		3D33D0D92514B79000A1D575 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		3D33D0DB2514B84300A1D575 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D33D0DD2514B91300A1D575 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3D5F6A6D25224C3000038E83 /* ShowMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowMap.swift; sourceTree = "<group>"; };
 		4C3E27901C5A76C719519F8E /* Pods-COVID19.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-COVID19.debug.xcconfig"; path = "Target Support Files/Pods-COVID19/Pods-COVID19.debug.xcconfig"; sourceTree = "<group>"; };
 		4EB38291F9662ED0C5B79475 /* Pods_COVID19.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_COVID19.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5317852964C9B785F23DE08C /* Pods-COVID19-COVID19UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-COVID19-COVID19UITests.release.xcconfig"; path = "Target Support Files/Pods-COVID19-COVID19UITests/Pods-COVID19-COVID19UITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				3D33D0D52514B77800A1D575 /* LoginViewController.swift */,
 				3D33D0AA2514ABA300A1D575 /* LaunchScreen.storyboard */,
 				3D33D0AD2514ABA300A1D575 /* Info.plist */,
+				3D5F6A6D25224C3000038E83 /* ShowMap.swift */,
 			);
 			path = COVID19;
 			sourceTree = "<group>";
@@ -418,6 +421,7 @@
 				3D33D0A42514ABA200A1D575 /* ViewController.swift in Sources */,
 				3D33D0D42514B75A00A1D575 /* SignUpViewController.swift in Sources */,
 				3D33D0DE2514B91300A1D575 /* AppDelegate.swift in Sources */,
+				3D5F6A6E25224C3000038E83 /* ShowMap.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
